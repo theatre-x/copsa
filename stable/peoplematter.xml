@@ -1,0 +1,7 @@
+<ruleset name="PeopleMatter">
+  <target host="www.my.peoplematter.com" />
+  <target host="my.peoplematter.com" />
+ 
+  <rule from="^http://(www\.)?my\.peoplematter\.com/" to="https://my.peoplematter.com"/>
+
+</ruleset>
