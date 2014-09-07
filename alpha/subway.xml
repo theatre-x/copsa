@@ -1,0 +1,31 @@
+<ruleset name="Subway">
+  <target host="www.subway.com/*" />
+  <target host="subway.com/*" />
+  <target host="www.partners.subway.com/" />
+  <target host="partners.subway.com/" />
+  <target host="www.mysubwaycard.com/" />
+  <target host="mysubwaycard.com/" />
+  <target host="www.mysubwaycareer.com/" />
+  <target host="mysubwaycareer.com/" />
+  <target host="www.tellsubway.com/" />
+  <target host="tellsubway.com/" />
+  <target host="www.shop.subway.com/" />
+  <target host="shop.subway.com/" />
+  <target host="www.subwaycatering.com/" />
+  <target host="subwaycatering/" />
+  <target host="www.m.subway.com/" />
+  <target host="m.subway.com/" />
+  <target host="www.contacts.subway.com/" />
+  <target host="contacts.subway.com/" />
+
+   <rule from="^http://(www.\)?subway\.com/*" to="https://www.subway.com/*" />
+   <rule from="^http://(www.\)?partners\.subway\.com/portal/" to="https://www.partners.subway.com/portal/"/>
+   <rule from="^http://(www.\)?mysubwaycard\.com/" to="https://mysubwaycard.com/" />
+   <rule from="^http://(www.\)?mysubwaycareer\.com/" to="https://mysubwaycareer.com/" />
+   <rule from="^http://(www.\)?shop\.subway\.com/" to="https://shop.subway.com" />
+   <rule from="^http://(www.\)?subwaycatering\.com/" to="https://subwaycatering.com/" />
+   <rule from="^http://(www.\)?m\.subway\.com/" to="https://m.subway.com/" />
+   <rule from="^http://(www.\)?contacts\.subway\.com/" to="https://contacts.subway.com/" />
+
+
+</ruleset>
