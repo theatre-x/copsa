@@ -1,0 +1,7 @@
+<ruleset name="M and T Bank - OnlineBanking">
+  <target host="www.onlinebanking.mandtbnk.com" />
+  <target host="onlinebanking.mandtbank.com" />
+ 
+  <rule from="^http://(www\.)?onlinebanking.mandtbank\.com/" to="https://onlinebanking.mandtbank.com"/>
+
+</ruleset>
