@@ -1,0 +1,7 @@
+<ruleset name="Bob Evans">
+  <target host="www.bobevans.com" />
+  <target host="bobevans.com" />
+
+    <rule from="^http://(www\.)?bobevans\.com/" to="https://bobevans.com/" />
+
+  </ruleset>
