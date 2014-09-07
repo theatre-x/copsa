@@ -1,0 +1,7 @@
+<ruleset name="Chemung Canal Trust Company - OnlineBanking">
+  <target host="www.online.cctcbank.com" />
+  <target host="online.cctcbank.com" />
+ 
+  <rule from="^http://(www\.)?online\.cctcbank\.com/" to="https://online.cctcbank.com"/>
+
+</ruleset>
