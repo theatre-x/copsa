@@ -1,0 +1,7 @@
+<ruleset name="M and T Bank">
+  <target host="www.mtb.com" />
+  <target host="mtb.com" />
+ 
+  <rule from="^http://(www\.)?mtb\.com/" to="https://mtb.com/"/>
+
+</ruleset>
