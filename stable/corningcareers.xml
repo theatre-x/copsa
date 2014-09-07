@@ -1,0 +1,9 @@
+<ruleset name="Corning Incorporated - Careers">
+  <target host="www.careers.corning.com" />
+  <target host="careers.corning.com" />
+ 
+  <rule from="^http://(www\.)?careers\.corning\.com/" to="https://careers.corning.com"/>
+
+  <securecookie host="^\.careers\.corning\.com$" name="CAREERS-83-PORTAL-PSJSESSIONID" />
+
+</ruleset>
