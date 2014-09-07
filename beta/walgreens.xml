@@ -1,0 +1,7 @@
+<ruleset name="Walgreens">
+  <target host="www.walgreens.com" />
+  <target host="walgreens.com" />
+ 
+  <rule from="^http://(www\.)?walgreens\.com/" to="https://walgreens.com/"/>
+
+</ruleset>
