@@ -1,0 +1,7 @@
+<ruleset name="World Kitchen">
+  <target host="www.shopworldkitchen.com" />
+  <target host="shopworldkitchen.com" />
+ 
+  <rule from="^http://(www\.)?shopworldkitchen\.com/" to="https://shopworldkitchen.com"/>
+
+</ruleset>
