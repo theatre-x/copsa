@@ -1,0 +1,7 @@
+<ruleset name="Community Bank">
+  <target host="www.communitybankna.com" />
+  <target host="communitybankna.com" />
+ 
+  <rule from="^http://(www\.)?communitybankna\.com/" to="https://communitybankna.com"/>
+
+</ruleset>
