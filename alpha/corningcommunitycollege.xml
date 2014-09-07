@@ -1,0 +1,16 @@
+<ruleset name="Corning Community College">
+  <target host="www.corning-cc.edu/" />
+  <target host="corning-cc.edu/" />
+  <target host="www.lumprod.corning-cc.edu/" />
+  <target host="lumprod.corning-cc.edu/" />
+  
+  <!-- CCC Home -->
+  <rule from="^http(www\.)corning-cc\.edu/" to="https://corning-cc.edu/" />
+  <!-- Lumprod (MyCCC) -->
+  <rule from="^http(www\.)corning-cc\.edu/" to="https://lumprod.corning-cc.edu/" />
+  <!-- BlackBoard -->
+  <rule from="^http(www\.)blackboard\.corning-cc\.edu/" to="https://blackboard.corning-cc.edu/" />
+  <!-- Banner -->
+  <rule from="^http(www\.)bssprod\.corning-cc\.edu/" to="https://bssprod.corning-cc.edu/" />
+  
+</ruleset>
