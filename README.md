@@ -51,6 +51,10 @@ Rulesets and their status:
 - AutoZone
 - Corning Museum of Glass
 
+How to use:
+==
+See here: https://www.eff.org/https-everywhere/rulesets
+
 Contributing:
 ==
 You can contribute by either<br>
