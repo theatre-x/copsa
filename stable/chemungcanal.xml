@@ -1,0 +1,6 @@
+<ruleset name="Chemung Canal Trust Company">
+  <target host="www.chemungcanal.com" />
+ 
+  <rule from="^http://(www\.)?chemungcanal\.com/" to="https://www.chemungcanal.com"/>
+
+</ruleset>
