@@ -1,0 +1,31 @@
+<ruleset name="Wegmans">
+
+<!-- Main website -->
+  
+  <target host="www.wegmans.com" />
+  <target host="wegmans.com" />
+
+<!-- Catering -->
+
+  <target host="www.catering.wegmans.com" />
+  <target host="catering.wegmans.com" />
+
+<!-- Wegmans Shop -->
+
+  <target host="www.shop.wegmans.com" />
+  <target host="shop.wegmans.com" />
+
+<!-- MyWegmans Connect -->
+
+  <target host="www.mywegmansconnect.com" />
+  <target host="mywegmansconnect.com" />
+
+<!-- Rules -->
+
+  <rule from="^http://(www\.)?wegmans\.com/" to="https://wegmans.com/"/>
+  <rule from="^http://(www\.)?catering\.wegmans\.com/" to="https://catering.wegmans.com/"/>
+  <rule from="^http://(www\.)?shop\.wegmans\.com/" to="https://shop.wegmans.com/"/>
+  <rule from="^http://(www\.)?mywegmansconnect\.com/" to="https://mywegmansconnect.com/"/>
+
+
+</ruleset>
