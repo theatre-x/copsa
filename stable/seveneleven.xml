@@ -1,0 +1,7 @@
+<ruleset name="7-Eleven">
+  <target host="www.7-eleven.com" />
+  <target host="7-eleven.com" />
+ 
+  <rule from="^http://(www\.)?7-eleven\.com/" to="https://www.7-eleven.com"/>
+
+</ruleset>
