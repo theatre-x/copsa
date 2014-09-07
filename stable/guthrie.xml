@@ -1,0 +1,10 @@
+<ruleset name="Guthrie">
+  <target host="www.guthrie.org" />
+  <target host="guthrie.org" />
+  <target host="www.e.guthrie.org" />
+  <target host="e.guthrie.org" />
+
+  <rule from="^http://(www\.)?guthrie\.org/" to="https://www.guthrie.org/"/>
+  <rule from="^http://(www\.)?e\.guthrie\.org/" to="https://e.guthrie.org/" />
+
+</ruleset>
