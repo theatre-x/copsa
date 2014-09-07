@@ -60,8 +60,17 @@ Contributing:
 You can contribute by either<br>
 <br>
 
-1. Testing for HTTPS on websites for local institutions, business, organizations, etc and then writing a ruleset for them.<br>
-2. Working on buggy rulesets<br>
-3. Reporting bugs<br>
-4. Getting local businesses, organizations, instiutions, etc to either use SSL/TLS on their websites and/or nagging them until they fix their unencrypted content or supplying their page with owner info.<br>
-5. Spread the project and HTTPS Everywhere like wildfire.<br>
+<b>1.</b> Testing for HTTPS on websites for local institutions, business, organizations, etc and then writing a ruleset for them.<br>
+<b>2.</b> Working on buggy rulesets<br>
+<b>3.</b> Reporting bugs<br>
+<b>4.</b> Getting local businesses, organizations, instiutions, etc to either use SSL/TLS on their websites and/or nagging them until they fix their unencrypted content or supplying their page with owner info.<br>
+<b>5.</b> Spread the project and HTTPS Everywhere like wildfire.<br>
+
+File/Folder Structure:
+==
+
+The files on this page are organized according to their development status starting from barely functioning pieces of s*** to stable and working as desired.<br>
+<br>
+<b>Stable:</b> Means that the ruleset has been tested and evaluated thoroughly enough to declare it safe for use.<br>
+<b>Beta:</b> The ruleset works but needs some extra evaluating, modifying, and testing before pushing it to Stable status.<br>
+<b>Alpha:</b> Barely function piece of crap. Anything in this directory should NOT be used by ANYONE who does not know what they are doing. This is where we initially put the code as well.
