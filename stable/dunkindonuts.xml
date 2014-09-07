@@ -1,0 +1,6 @@
+<ruleset name="Dunkin' Donuts">
+  <target host="www.dunkindonuts.com" />
+ 
+  <rule from="^http://(www\.)?dunkindonuts\.com/" to="https://www.dunkindonuts.com"/>
+
+</ruleset>
