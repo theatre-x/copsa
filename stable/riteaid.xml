@@ -1,0 +1,10 @@
+<ruleset name="RiteAid">
+  <target host="www.riteaid.com" />
+  <target host="riteaid.com" />
+  <target host="www.shop-riteaid-com.webstorepowered.com" />
+  <target host="shop-riteaid-com.webstorepowered.com" />
+
+  <rule from="^http://(www\.)?riteaid\.com/" to="https://www.riteaid.com"/>
+  <rule from="^http://(www\.)?shop-riteaid-com\.webstorepowered\.com/" to="https://shop-riteaid-com.webstorepowered.com/" />
+
+</ruleset>
