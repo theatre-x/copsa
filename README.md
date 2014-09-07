@@ -51,6 +51,14 @@ Rulesets and their status:
 - AutoZone
 - Corning Museum of Glass
 
+<b>Third Party sites for businesses in the area (Such as sites for filling out job applications):</b>
+
+- NetTeller (Used by Five Star Bank and Community Bank N.A.)
+- Reid Systems (Used by Tops Markets)
+- People Matter (Used by FasTrac Markets)
+- Hire Bridge (Used by Friendly's)
+- Aon (Used by McDonald's)
+
 How to use:
 ==
 See here: https://www.eff.org/https-everywhere/rulesets
