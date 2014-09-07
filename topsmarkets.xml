@@ -1,7 +1,0 @@
-<ruleset name="Tops Markets">
-  <target host="www.topsmarkets.com" />
-  <target host="topsmarkets.com" />
- 
-  <rule from="^http://(www\.)?topsmarkets\.com/" to="https://secure.topsmarkets.com/"/>
-
-</ruleset>
