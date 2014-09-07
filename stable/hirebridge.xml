@@ -1,0 +1,7 @@
+<ruleset name="HireBridge">
+  <target host="www.hirebridge.com" />
+  <target host="targetbridge.com" />
+  
+  <rule from="^http://(www\.)?hirebridge\.com/" to="https://hirebridge.com/" />
+
+</ruleset>
