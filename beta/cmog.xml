@@ -1,0 +1,7 @@
+<ruleset name="Corning Museum of Glass">
+  <target host="www.cmog.org" />
+  <target host="cmog.org" />
+
+  <rule from="^http://(www\.)?cmog\.org/" to="https://www.cmog.org/"/>
+
+</ruleset>
