@@ -2,6 +2,6 @@
   <target host="www.autozone.com" />
   <target host="autozone.com" />
 
-   <rule from="^http://(www\.)?autozone\.com/" to="https://autozone.com/" />
+   <rule from="^http://(www\.)?autozone\.com/" to="https://www.autozone.com/" />
 
 </ruleset>
