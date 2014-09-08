@@ -84,9 +84,9 @@ File/Folder Structure:
 
 The files on this page are organized according to their development status starting from barely functioning pieces of s*** to stable and working as desired.<br>
 <br>
-<b>Stable:</b> Means that the ruleset has been tested and evaluated thoroughly enough to declare it safe for use.<br>
-<b>Beta:</b> The ruleset works but needs some extra evaluating, modifying, and testing before pushing it to Stable status.<br>
-<b>Alpha:</b> Barely function piece of crap. Anything in this directory should NOT be used by ANYONE who does not know what they are doing. This is where we initially put the code as well.
+<b>Stable:</b> Means that the ruleset has been tested and evaluated thoroughly enough and we have declared it safe for use.<br>
+<b>Beta:</b> The ruleset works but needs some TLC in the form of extensive evaluating, modifying, and testing before pushing it to Stable status.<br>
+<b>Alpha:</b> Barely functioning piece of crap. Anything in this directory should NOT be used by ANYONE who does not know what they are doing. This is where we add in the new rulesets as well for their first phase of tests and analysis.
 
 Current issues and bugs:
 ==
