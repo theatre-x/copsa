@@ -41,7 +41,7 @@ Rulesets and their status:
 - ServU Credit Union
 - Chemung Canal Trust Company (Online Banking)
 
-<b>Work but has/may content that is encrypted on main page/subpage:</b>
+<b>Work but has/may content that is not encrypted on main page/subpage:</b>
 
 - Walgreens
 - Tops Markets
