@@ -1,0 +1,8 @@
+<ruleset name="CCC Bookstore">
+  <target host="www.corningbookstore.com" />
+  <target host="corningbookstore.com" />
+
+  <rule from="^http(www\.)corningbookstore\.com/" to="https://www.corningbookstore.com/" />
+
+
+</ruleset>
