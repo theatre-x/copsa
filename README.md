@@ -72,7 +72,8 @@ Contributing:
 ==
 You can contribute by either<br>
 <br>
-
+(In order of largest to smallest contribution)
+<br>
 <b>1.</b> Testing for HTTPS on websites for local institutions, business, organizations, etc and then writing a ruleset for them.<br>
 <b>2.</b> Working on buggy rulesets<br>
 <b>3.</b> Reporting bugs<br>
