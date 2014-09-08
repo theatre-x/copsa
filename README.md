@@ -7,6 +7,9 @@ The Corning Online Privacy and Security Augmentation [COPSA] Project's goal is t
 
 To dumb it down: WE MAKEZ DEMZ INTERNETZ SAFERZ FOR CORNING PEEPZ.
 
+We ONLY write <a href="https://www.fsf.org/about/what-is-free-software">Free Software</a>. Hence, why we're on GitHub.
+<br>
+
 <b>Why:</b><br>
 <b>1.</b> Because we actually give a s*** about online security and privacy.<br>
 <b>2.</b> We do NOT want to easily be tracked by organizations such as the NSA.<br>
@@ -15,7 +18,7 @@ To dumb it down: WE MAKEZ DEMZ INTERNETZ SAFERZ FOR CORNING PEEPZ.
 Rulesets and their status:
 =
 
-<b>(As of 07/09/2014 (dd/mm/yyyy))</b>
+<b>(As of 08/09/2014 (dd/mm/yyyy))</b>
 
 <b>Working:</b>
 
@@ -40,6 +43,7 @@ Rulesets and their status:
 - RiteAid
 - ServU Credit Union
 - Chemung Canal Trust Company (Online Banking)
+- AutoZone
 
 <b>Work but has/may content that is not encrypted on main page/subpage:</b>
 
@@ -51,8 +55,6 @@ Rulesets and their status:
 <b>Still working the bugs out of:</b>
 
 - Subway
-- AutoZone
-- Corning Museum of Glass
 
 <b>Third Party sites for businesses in the area (Such as sites for filling out job applications):</b>
 
