@@ -45,7 +45,7 @@ Rulesets and their status:
 - Chemung Canal Trust Company (Online Banking)
 - AutoZone
 
-<b>Work but has/may content that is not encrypted on main page/subpage:</b>
+<b>Work but has/may have content that is not encrypted on main page/subpage:</b>
 
 - Walgreens
 - Tops Markets
