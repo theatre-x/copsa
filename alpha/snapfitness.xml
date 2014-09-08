@@ -2,6 +2,6 @@
   <target host="www.snapfitness.com" />
   <target host="snapfitness.com" />
   
-  <rule from="^http://(www\.)snapfitness\.com/" to="https://snapfitness.com/" />
+  <rule from="^http://(www\.)snapfitness\.com/" to="https://www.snapfitness.com/" />
   
 </ruleset>
