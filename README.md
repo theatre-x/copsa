@@ -43,6 +43,7 @@ Rulesets and their status:
 - ServU Credit Union
 - Chemung Canal Trust Company (Online Banking)
 - AutoZone
+- Corning Community College Bookstore
 
 <b>Work but has/may have content that is not encrypted on main page/subpage:</b>
 
