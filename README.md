@@ -3,11 +3,10 @@ The C.O.P.S.A Project
 
 <b>About:</b>
 <br>
-The Corning Online Privacy and Security Augmentation [COPSA] Project's goal is to write rulesets for the <a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a> browser add-on by the <a href="https://www.eff.org/">Electronic Frontier Foundation [EFF]</a> for Mozilla Firefox, Google Chrome, Android OS, and Opera web browsers to better secure and privatize website traffic and content for people in the Corning, NY area and/or who are accessing content that is in the Corning, NY area.
+The Corning Online Privacy and Security Augmentation [COPSA] Project's goal is to write rulesets for the <a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a> browser add-on by the <a href="https://www.eff.org/">Electronic Frontier Foundation [EFF]</a>, which is available for Mozilla Firefox, Google Chrome, Android OS, and Opera web browsers, to better secure and privatize website traffic and content for people in the Corning, NY area and/or who are accessing content that is in the Corning, NY area.
 
 To dumb it down: WE MAKEZ DEMZ INTERNETZ SAFERZ FOR CORNING PEEPZ.
 
-We ONLY write <a href="https://www.fsf.org/about/what-is-free-software">Free Software</a>. Hence, why we're on GitHub.
 <br>
 
 <b>Why:</b><br>
