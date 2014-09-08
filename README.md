@@ -87,3 +87,7 @@ The files on this page are organized according to their development status start
 <b>Stable:</b> Means that the ruleset has been tested and evaluated thoroughly enough to declare it safe for use.<br>
 <b>Beta:</b> The ruleset works but needs some extra evaluating, modifying, and testing before pushing it to Stable status.<br>
 <b>Alpha:</b> Barely function piece of crap. Anything in this directory should NOT be used by ANYONE who does not know what they are doing. This is where we initially put the code as well.
+
+Current issues and bugs:
+==
+Check our <a href="https://github.com/theatre-x/copsa/issues">Issues</a> page.
