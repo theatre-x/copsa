@@ -30,7 +30,7 @@ Rulesets and their status:
 - Corning Credit Union
 - Corning Community College
 
-<b>Work but the site doesn't have owner info:</b>
+<b>Work but the site's certificate doesn't have owner info:</b>
 
 - Bob Evans
 - Walgreens
