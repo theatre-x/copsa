@@ -3,6 +3,7 @@
   <target host="corningbookstore.com" />
 
   <rule from="^http://(www\.)?corningbookstore\.com/" to="https://www.corningbookstore.com/" />
-
+  
+  <securecookie host="^corningbookstore\.com$" name=".*" />
 
 </ruleset>
