@@ -25,7 +25,7 @@ Rulesets and their status:
 - M&T Bank
 - Chemung Canal Trust Company
 - Corning Credit Union
-- Corning Community College
+- Corning Community College (Main Site, BlackBoard, Banner, and Email. Still having issues with Lumprod)
 
 <b>Work but the site's certificate doesn't have owner info:</b>
 
