@@ -90,3 +90,15 @@ The files on this page are organized according to their development status start
 Current issues and bugs:
 ==
 Check our <a href="https://github.com/theatre-x/copsa/issues">Issues</a> page.
+
+Sites available to hack up a ruleset for:
+==
+- Tags Tickets' order tickets Page
+- Rico's Pizza order online form
+- Dresser-Rand
+- Big Lots!
+- GameStop
+- Dollar Tree
+- Taco Bell
+- ALDI
+- And more
