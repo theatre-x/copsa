@@ -101,4 +101,5 @@ Sites available to hack up a ruleset for:
 - Dollar Tree
 - Taco Bell
 - ALDI
+- Bass Shoes
 - And more
