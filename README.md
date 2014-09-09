@@ -7,8 +7,6 @@ The Corning Online Privacy and Security Augmentation [COPSA] Project's goal is t
 
 To dumb it down: WE MAKEZ DEMZ INTERNETZ SAFERZ FOR CORNING PEEPZ.
 
-<br>
-
 <b>Why:</b><br>
 <b>1.</b> Because we actually give a s*** about online security and privacy.<br>
 <b>2.</b> We do NOT want to easily be tracked by organizations such as the NSA.<br>
