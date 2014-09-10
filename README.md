@@ -49,6 +49,7 @@ Rulesets and their status:
 - Tops Markets
 - Corning Museum of Glass
 - Dunkin' Donuts
+- Big Lots!
 
 <b>Still working the bugs out of:</b>
 
