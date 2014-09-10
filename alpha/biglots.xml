@@ -1,7 +1,7 @@
-<ruleset name="Big Lots!">
-  <target host="www.biglots.com/rewards/login/join" />
-  <target host="biglots.com/rewards/login/join" />
-  
-  <rule from="^http://(www\.)?biglots\.com/rewards/login/join" to="https://biglots.com/rewards/login/join" />
-  
-  </ruleset>
+<ruleset name="Big Lots!" platform="mixedcontent">
+<target host="www.biglots.com" />
+<target host="biglots.com" />
+
+<rule from="^https?://(www\.)?biglots\.com/" to="https://www.biglots.com/" />
+
+</ruleset>
