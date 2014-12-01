@@ -2,6 +2,6 @@
   <target host="www.cm.netteller.com" />
   <target host="cm.netteller.com" />
  
-  <rule from="^http://(www\.)?cm\.netteller\.com/" to="https://cm.netteller.com"/>
+  <rule from="^http://(www\.)?cm\.netteller\.com/" to="https://cm.netteller.com/"/>
 
 </ruleset>
