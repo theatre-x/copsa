@@ -2,7 +2,7 @@
   <target host="www.servucu.com" />
   <target host="servucu.com" />
  
-  <rule from="^http://(www\.)?servucu\.com/" to="https://servucu.com"/>
+  <rule from="^http://(www\.)?servucu\.com/" to="https://servucu.com/"/>
 
   <securecookie host="^\.servucu\.com$" name=".*" />
 
