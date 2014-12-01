@@ -2,6 +2,6 @@
   <target host="www.pathwaysforyou.org" />
   <target host="pathwaysforyou.org" />
  
-  <rule from="^http://(www\.)?pathwaysforyou\.org/" to="https://pathwaysforyou.org"/>
+  <rule from="^http://(www\.)?pathwaysforyou\.org/" to="https://pathwaysforyou.org/"/>
 
 </ruleset>
