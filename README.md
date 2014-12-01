@@ -15,7 +15,7 @@ To dumb it down: WE MAKEZ DEMZ INTERNETZ SAFERZ FOR CORNING PEEPZ.
 Rulesets and their status:
 =
 
-<b>(As of 09/09/2014 (dd/mm/yyyy))</b>
+<b>(As of 12/01/2014 (dd/mm/yyyy))</b>
 
 <b>Working:</b>
 
