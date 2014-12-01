@@ -1,0 +1,7 @@
+<ruleset name="CorningWiki">
+    <target host="www.corningwiki.org" />
+    <target host="corningwiki.org" />
+
+<rule from="^http://(www\.)?corningwiki\.org/" to="https://corningwiki.org/"/>
+
+</ruleset>
