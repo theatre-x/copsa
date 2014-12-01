@@ -2,7 +2,7 @@
   <target host="www.homebanking.servucu.com" />
   <target host="homebanking.servucu.com" />
  
-  <rule from="^http://(www\.)?homebanking\.servucu\.com/" to="https://homebanking.servucu.com"/>
+  <rule from="^http://(www\.)?homebanking\.servucu\.com/" to="https://homebanking.servucu.com/"/>
 
   <securecookie host="^\.homebanking\.servucu\.com$" name=".*" />
 
