@@ -1,0 +1,10 @@
+<ruleset name="First Heritage Federal Credit Union">
+	<target host="fhfcu.org" />
+	<target host="www.fhfcu.org" />
+	<target host="cs.loanspq.com" />
+	<target host="www.cs.loanspq.com" />
+
+<rule from="^http://(www\.)?fhfcu\.org/" to="https://fhfcu.org/" />
+<rule from="^http://(www\.)?cs\.loanspq\.com/" to="https://cs.loanspq.com/" />
+
+</ruleset>
