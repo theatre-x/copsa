@@ -2,6 +2,6 @@
   <target host="www.five-starbank.com" />
   <target host="five-starbank.com" />
  
-  <rule from="^http://(www\.)?five-starbank\.com/" to="https://five-starbank.com"/>
+  <rule from="^http://(www\.)?five-starbank\.com/" to="https://five-starbank.com/"/>
 
 </ruleset>
