@@ -2,10 +2,6 @@
   <target host="www.corningbookstore.com" />
   <target host="corningbookstore.com" />
 
-<script type="text/javascript"> 
-  window.location = "http://www.corningbookstore.com/"
-</script>
-
   <rule from="^http://(www\.)?corningbookstore\.com/" to="https://www.corningbookstore.com/" />
   
   <securecookie host="^corningbookstore\.com$" name=".*" />
