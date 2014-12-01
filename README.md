@@ -29,6 +29,7 @@ Rulesets and their status:
 
 <b>Work but the site's certificate doesn't have owner info:</b>
 
+- CorningWiki
 - Bob Evans
 - Walgreens
 - 7-Eleven
