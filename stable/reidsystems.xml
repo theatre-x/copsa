@@ -2,6 +2,6 @@
   <target host="www.ec3.reidsystems.com" />
   <target host="ec3.reidsystems.com" />
  
-  <rule from="^http://(www\.)?ec3\.reidsystems\.com/" to="https://ec3.reidsystems.com"/>
+  <rule from="^http://(www\.)?ec3\.reidsystems\.com/" to="https://ec3.reidsystems.com/"/>
 
 </ruleset>
