@@ -1,0 +1,10 @@
+<ruleset name="Elmira Savings Bank">
+	<target host="elmirasavingsbank.com" />
+	<target host="www.elmirasavingsbank.com" />
+	<target host="olb.elmirasavingsbank.com" />
+	<target host="www.olb.elmirasavingsbank.com" />
+
+<rule from="^http://(www\.)?elmirasavingsbank\.com/" to="https://elmirasavingsbank.com/" />
+<rule from="^http://(www\.)?olb\.elmirasavingsbank\.com/" to="https://olb.elmirasavingsbank.com/" />
+
+</ruleset>
