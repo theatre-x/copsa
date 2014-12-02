@@ -1,0 +1,7 @@
+<ruleset name="Free Culture: Corning NY">
+	<target host="freeculturecorningny.wordpress.com" />
+	<target host="www.freeculturecorningny.wordpress.com" />
+
+<rule from="^http://(www\.)?freeculturecorningny\.wordpress\.com" to="https://freeculturecorningny.com/" />
+
+</ruleset>
