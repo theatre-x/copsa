@@ -1,7 +1,7 @@
-<ruleset name="Big Lots!" platform="mixedcontent">
+<ruleset name="Big Lots!">
 <target host="www.biglots.com" />
 <target host="biglots.com" />
 
-<rule from="^https?://(www\.)?biglots\.com/" to="https://www.biglots.com/" />
+<rule from="^http://(www\.)?biglots\.com/" to="https://www.biglots.com/" />
 
 </ruleset>
