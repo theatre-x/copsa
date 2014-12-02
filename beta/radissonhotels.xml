@@ -1,6 +1,6 @@
 <ruleset name="Radisson Hotels">
-  <target host="www.radisson.com" />
   <target host="radisson.com" />
+  <target host="www.radisson.com" />
  
   <rule from="^http://(www\.)?radisson\.com/" to="https://www.radisson.com/"/>
 
