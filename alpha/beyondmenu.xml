@@ -1,6 +1,6 @@
 <ruleset name="BeyondMenu">
-  <target host="www.beyondmenu.com" />
   <target host="beyondmenu.com" />
+  <target host="www.beyondmenu.com" />
 
 <ruleset from="^http://(www\.)?beyondmenu\.com/" to="https://beyondmenu.com/" />
 
