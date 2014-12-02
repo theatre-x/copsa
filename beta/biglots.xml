@@ -1,6 +1,6 @@
 <ruleset name="Big Lots!">
-<target host="www.biglots.com" />
 <target host="biglots.com" />
+<target host="www.biglots.com" />
 
 <rule from="^http://(www\.)?biglots\.com/" to="https://www.biglots.com/" />
 
