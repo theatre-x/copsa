@@ -1,6 +1,6 @@
 <ruleset name="Subway">
-  <target host="www.subway.com/*" />
-  <target host="subway.com/*" />
+  <target host="subway.com" />
+  <target host="www.subway.com" />
   <target host="www.partners.subway.com/" />
   <target host="partners.subway.com/" />
   <target host="www.mysubwaycard.com/" />
@@ -18,7 +18,7 @@
   <target host="www.contacts.subway.com/" />
   <target host="contacts.subway.com/" />
 
-   <rule from="^http://(www.\)?subway\.com/*" to="https://www.subway.com/*" />
+   <rule from="^http://(www.\)?subway\.com/*" to="https://www.subway.com/" />
    <rule from="^http://(www.\)?partners\.subway\.com/portal/" to="https://www.partners.subway.com/portal/"/>
    <rule from="^http://(www.\)?mysubwaycard\.com/" to="https://mysubwaycard.com/" />
    <rule from="^http://(www.\)?mysubwaycareer\.com/" to="https://mysubwaycareer.com/" />
