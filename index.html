@@ -33,126 +33,37 @@
 
 <p><b>About:</b>
 <br>
-The Corning Online Privacy and Security Augmentation [COPSA] Project's goal is to write rulesets for the <a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a> browser add-on by the <a href="https://www.eff.org/">Electronic Frontier Foundation [EFF]</a>, which is available for Mozilla Firefox, Google Chrome, Android OS, and Opera web browsers, to better secure and privatize website traffic and content for people in the Corning, NY area and/or who are accessing content that is in the Corning, NY area.</p>
-
-<p>We plan on writing our own Free Software security programs for non-free operating systems to protect users who have to use these operating systems from prying eyes.</p>
+The Corning Online Privacy and Security Augmentation [COPSA] Project's goal is to write code for the sake of protecting the on-line privacy and security of the people of the Corning, NY area, and indirectly the rest of the world.</p>
 
 <p>To dumb it down: WE MAKEZ DEMZ INTERNETZ SAFERZ FOR CORNING PEEPZ.</p>
 
 <p><b>Why:</b><br>
 <b>1.</b> Because we actually give a s*** about online security and privacy.<br>
-<b>2.</b> We do NOT want to easily be tracked by organizations such as the NSA.<br>
-<b>3.</b> We want to decrease the odds of our information getting stolen/used against us.<br></p>
+<b>2.</b> We do NOT want to easily be tracked by organizations such as the National Security Agency.<br>
+<b>3.</b> We want to decrease the odds of our information getting stolen on-line/used against us.<br></p>
 
-<h1>
-<a id="rulesets-and-their-status" class="anchor" href="#rulesets-and-their-status" aria-hidden="true"><span class="octicon octicon-link"></span></a>Rulesets and their status:</h1>
-
-<p><b>(As of 01/12/2014 (dd/mm/yyyy))</b></p>
-
-<p><b>Working:</b></p>
+<p>Currently, COPSA has two programs made:</p>
 
 <ul>
-<li>Wegmans</li>
-<li>Guthrie</li>
-<li>World Kitchen</li>
-<li>M&amp;T Bank</li>
-<li>Chemung Canal Trust Company</li>
-<li>Corning Credit Union</li>
-<li>Corning Community College (Main Site, BlackBoard, Banner, and Email. Still having issues with Lumprod)</li>
+<li>NSA Smacker</li>
+<li>HTTPS Them All</li>
 </ul>
 
-<p><b>Work but the site's certificate doesn't have owner info:</b></p>
+<h2>
+<a id="nsa-smacker" class="anchor" href="#nsa-smacker" aria-hidden="true"><span class="octicon octicon-link"></span></a>NSA Smacker</h2>
 
-<ul>
-<li>CorningWiki</li>
-<li>Bob Evans</li>
-<li>Walgreens</li>
-<li>7-Eleven</li>
-<li>Pathways Inc.</li>
-<li>Community Bank N.A.</li>
-<li>Corning Inc.</li>
-<li>Five Star Bank</li>
-<li>Radisson</li>
-<li>RiteAid</li>
-<li>ServU Credit Union</li>
-<li>Chemung Canal Trust Company (Online Banking)</li>
-<li>AutoZone</li>
-<li>Corning Community College Bookstore</li>
-</ul>
+<p>NSA Smacker is a simple, procedural <a href="https://www.gnu.org/software/bash/">GNU Bash</a> script that prevents a user, on a single computer level i.e. not every user on a network but only per computer that ran the script, from connecting to websites that are known for malicious content and/or helping the NSA spy on people by adding these websites to the /etc/hosts list and making the user's computer resolve them back to themselves (127.0.0.1).</p>
 
-<p><b>Work but has/may have content that is not encrypted on main page/subpage:</b></p>
+<p>The program is only known to work on the GNU+Linux operating system.</p>
 
-<ul>
-<li>Walgreens</li>
-<li>Tops Markets</li>
-<li>Corning Museum of Glass</li>
-<li>Dunkin' Donuts</li>
-<li>Big Lots!</li>
-</ul>
+<p>You can get NSA Smacker <a href="https://github.com/theatre-x/nsa_smacker">here</a>.</p>
 
-<p><b>Still working the bugs out of:</b></p>
+<h2>
+<a id="https-them-all" class="anchor" href="#https-them-all" aria-hidden="true"><span class="octicon octicon-link"></span></a>HTTPS Them All</h2>
 
-<ul>
-<li>Subway</li>
-</ul>
+<p>The goal for HTTPS Them All is to write rulesets for the <a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a> browser add-on by the <a href="https://www.eff.org/">Electronic Frontier Foundation [EFF]</a>, which is available for Mozilla Firefox, Google Chrome, Android OS, and Opera web browsers, to better secure and privatize website traffic and content for people in the Corning, NY area and/or who are accessing content that is in the Corning, NY area.</p>
 
-<p><b>Third Party sites for businesses in the area (Such as sites for filling out job applications):</b></p>
-
-<ul>
-<li>NetTeller (Used by Five Star Bank and Community Bank N.A.)</li>
-<li>Reid Systems (Used by Tops Markets)</li>
-<li>People Matter (Used by FasTrac Markets)</li>
-<li>Hire Bridge (Used by Friendly's)</li>
-<li>Aon (Used by McDonald's)</li>
-</ul>
-
-<h1>
-<a id="how-to-use" class="anchor" href="#how-to-use" aria-hidden="true"><span class="octicon octicon-link"></span></a>How to use:</h1>
-
-<p>See here: <a href="https://www.eff.org/https-everywhere/rulesets">https://www.eff.org/https-everywhere/rulesets</a></p>
-
-<h1>
-<a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contributing:</h1>
-
-<p>You can contribute by either<br>
-<br>
-(In order of largest to smallest contribution)
-<br>
-<b>1.</b> Testing for HTTPS on websites for local institutions, business, organizations, etc and then writing a ruleset for them.<br>
-<b>2.</b> Working on buggy rulesets<br>
-<b>3.</b> Reporting bugs<br>
-<b>4.</b> Getting local businesses, organizations, instiutions, etc to either use SSL/TLS on their websites and/or nagging them until they fix their unencrypted content or supplying their page with owner info.<br>
-<b>5.</b> Spread the project and HTTPS Everywhere like wildfire.<br></p>
-
-<h1>
-<a id="filefolder-structure" class="anchor" href="#filefolder-structure" aria-hidden="true"><span class="octicon octicon-link"></span></a>File/Folder Structure:</h1>
-
-<p>The files on this page are organized according to their development status starting from barely functioning pieces of s*** to stable and working as desired.<br>
-<br>
-<b>Stable:</b> Means that the ruleset has been tested and evaluated thoroughly enough and we have declared it safe for use.<br>
-<b>Beta:</b> The ruleset works but needs some TLC in the form of extensive evaluating, modifying, and testing before pushing it to Stable status.<br>
-<b>Alpha:</b> Barely functioning piece of crap. Anything in this directory should NOT be used by ANYONE who does not know what they are doing. This is where we add in the new rulesets as well for their first phase of tests and analysis.</p>
-
-<h1>
-<a id="current-issues-and-bugs" class="anchor" href="#current-issues-and-bugs" aria-hidden="true"><span class="octicon octicon-link"></span></a>Current issues and bugs:</h1>
-
-<p>Check our <a href="https://github.com/theatre-x/copsa/issues">Issues</a> page.</p>
-
-<h1>
-<a id="sites-available-to-hack-up-a-ruleset-for" class="anchor" href="#sites-available-to-hack-up-a-ruleset-for" aria-hidden="true"><span class="octicon octicon-link"></span></a>Sites available to hack up a ruleset for:</h1>
-
-<ul>
-<li>Tags Tickets' order tickets Page</li>
-<li>Rico's Pizza order online form</li>
-<li>Dresser-Rand</li>
-<li>Big Lots!</li>
-<li>GameStop</li>
-<li>Dollar Tree</li>
-<li>Taco Bell</li>
-<li>ALDI</li>
-<li>Bass Shoes</li>
-<li>And more</li>
-</ul>
+<p>You can get the code by clicking any of the "Download" buttons above.</p>
       </section>
     </div>
 
